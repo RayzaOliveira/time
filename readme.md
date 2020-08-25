@@ -1,9 +1,5 @@
 ## 5 latest stories on Time.com 📰
 
-----
-
-<br>
-
 <img src="https://raw.githubusercontent.com/RayzaOliveira/time/master/assets/site.png"/>
 
 <br>
