@@ -1,0 +1,11 @@
+{
+  "name": "time",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts":{
+    "start": "node server.js"
+  },
+  "repository": "https://github.com/RayzaOliveira/time.git",
+  "author": "Rayza Oliveira <rayza.ocr@gmail.com>",
+  "license": "MIT"
+}
