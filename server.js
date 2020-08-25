@@ -60,6 +60,6 @@ const server = http.createServer((req, res) => {
 const PORT = process.env.PORT || 3001
 
 server.listen(PORT, 'localhost', () => {
-  console.log('Online Server: http://localhost:3001')
+  console.log(`Online Server: http://localhost:${PORT}`)
   console.log('To shut down the server: Ctrl + c')
 })
