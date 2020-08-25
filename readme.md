@@ -3,7 +3,6 @@
 <img src="https://raw.githubusercontent.com/RayzaOliveira/time/master/assets/site.png"/>
 
 <br>
-<br>
 
 ### Assuming that the service URL is http://localhost:3001/getTimeStories, the response presented will be an array of objects with the 5 most recent JSON stories.
 <br>
