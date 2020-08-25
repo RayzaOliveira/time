@@ -28,7 +28,7 @@ const server = http.createServer((req, res) => {
           mySubString.lastIndexOf('</section>')
         )
 
-        const tagsAnchor = newString.match(/<\s*a[^>]>(.?)<\s*\/\s*a>/g)
+        const tagsAnchor = newString.match(/<a.+?>(.*?)<\/a>/g) || []
 
         tagsAnchor.forEach(element => {
           let title = ''
